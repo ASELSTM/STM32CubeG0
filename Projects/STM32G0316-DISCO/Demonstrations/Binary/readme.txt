@@ -1,0 +1,1 @@
+Please refer to the Binary Resources Demo in the Board web page STM32G0316-DISCO (https://www.st.com/en/evaluation-tools/stm32g0316-disco.html)
